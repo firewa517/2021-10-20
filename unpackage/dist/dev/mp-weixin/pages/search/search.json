@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "搜索商品",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#f26b11",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar"
+  }
+}
